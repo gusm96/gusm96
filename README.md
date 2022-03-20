@@ -1,8 +1,1 @@
-<div align=center>
-    ![Seongmo's GitHub stats](https://github-readme-stats.vercel.app/api?	username=anuraghazra&show_icons=true&theme=radical)
-</div>
-
-
-
-
-
+[![Seongmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusm96&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
