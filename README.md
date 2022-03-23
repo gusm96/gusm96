@@ -1,12 +1,10 @@
 <div align="center">
 
-## **💻Seongmo's GitHub**
+## **💻Seongmo's  GitHub**
 
 <a href=https://www.instagram.com/moyada_/ target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F? style=plastic&logo=Instagram&logoColor=white"/></a>
 
-------
-
-## [![Seongmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusm96&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Seongmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusm96&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💪Skills
 
