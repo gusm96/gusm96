@@ -6,6 +6,14 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/>
 </a>
 
+### 👋 About Me
+
+백엔드 개발자 성모입니다.
+
+기능 구현에 머무르기보다,  
+**설계, 성능, 확장성을 함께 고민하며 시스템을 더 나은 구조로 개선하는 과정**을 좋아합니다.  
+기술에 한계를 두기보다, 문제에 맞는 최적의 해법을 찾아가는 개발자로 성장하고 있습니다.
+
 <br/>
 
 ### 🛠 Tech Stack
